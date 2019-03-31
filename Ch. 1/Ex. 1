@@ -1,0 +1,3 @@
+Take x that belongs to the union of A_n's. Since it belongs to the union then tere is at least one n such that x is in A_n.
+Taking the minimum n from all of the such possible values of n we can form B_n as A_n to which the x belongs to minus all 
+the other A_n's. Therefore, x belongs to B_n and thus belongs to the unioin of B_n's!
